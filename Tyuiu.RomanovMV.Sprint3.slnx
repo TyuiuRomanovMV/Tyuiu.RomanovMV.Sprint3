@@ -4,4 +4,9 @@
     <Project Path="Tyuiu.RomanovMV.Sprint3.Task0.V5.Test/Tyuiu.RomanovMV.Sprint3.Task0.V5.Test.csproj" />
     <Project Path="Tyuiu.RomanovMV.Sprint3.Task0.V5/Tyuiu.RomanovMV.Sprint3.Task0.V5.csproj" />
   </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.RomanovMV.Sprint3.Task1.V10.Lib/Tyuiu.RomanovMV.Sprint3.Task1.V10.Lib.csproj" Id="38657909-a7b4-42cd-986d-560f0a9e02c9" />
+    <Project Path="Tyuiu.RomanovMV.Sprint3.Task1.V10.Test/Tyuiu.RomanovMV.Sprint3.Task1.V10.Test.csproj" Id="a618a27b-63a2-4849-b816-0d9ba5499c82" />
+    <Project Path="Tyuiu.RomanovMV.Sprint3.Task1.V10/Tyuiu.RomanovMV.Sprint3.Task1.V10.csproj" Id="231a6590-006b-4482-b912-3eb3075b387e" />
+  </Folder>
 </Solution>
