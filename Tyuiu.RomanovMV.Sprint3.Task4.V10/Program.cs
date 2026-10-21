@@ -9,7 +9,7 @@ namespace Tyuiu.RomanovMV.Sprint3.Task4.V10
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            /* */
+            
             Console.Title = "Спринт #3 | Выполнил: Романов М. В. | ИИПБ-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт №3                                                               *");
