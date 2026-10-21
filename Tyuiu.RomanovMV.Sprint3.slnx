@@ -24,4 +24,5 @@
     <Project Path="Tyuiu.RomanovMV.Sprint3.Task4.V10.Test/Tyuiu.RomanovMV.Sprint3.Task4.V10.Test.csproj" Id="e3931d63-299b-49d6-ae90-254fef532d5b" />
     <Project Path="Tyuiu.RomanovMV.Sprint3.Task4.V10/Tyuiu.RomanovMV.Sprint3.Task4.V10.csproj" Id="8f4d1886-875c-4123-a955-16838c6cc61a" />
   </Folder>
+  <Folder Name="/Task5/" />
 </Solution>
